@@ -8,7 +8,7 @@
 }
 
 .Site-logo {
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
 }
 
@@ -31,16 +31,19 @@
 
 .Site-header {
   background-color: #ffffff;
-  min-height: 100vh;
+  min-height: 5vh; /* how far down our header goes*/
+  /*display: flex;*/
+  /*flex-direction: column;*/
   display: flex;
-  flex-direction: column;
   align-items: center; 
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(30px + 2vmin);
   font-family: "Garamond";
   font-weight: bold;
-  text-align: right;
+  text-align: center;
+  /*line-height:100px;*/
   color: rgb(0, 0, 0);
+  
 }
 
 

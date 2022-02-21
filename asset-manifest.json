@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Covid-Today-WebApp/static/css/main.073c9b0a.css",
-    "main.js": "/Covid-Today-WebApp/static/js/main.537f3feb.js",
+    "main.css": "/Covid-Today-WebApp/static/css/main.f6db65c2.css",
+    "main.js": "/Covid-Today-WebApp/static/js/main.57d89275.js",
     "static/js/787.97c44aa0.chunk.js": "/Covid-Today-WebApp/static/js/787.97c44aa0.chunk.js",
     "static/media/logo.svg": "/Covid-Today-WebApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Covid-Today-WebApp/index.html",
-    "main.073c9b0a.css.map": "/Covid-Today-WebApp/static/css/main.073c9b0a.css.map",
-    "main.537f3feb.js.map": "/Covid-Today-WebApp/static/js/main.537f3feb.js.map",
+    "main.f6db65c2.css.map": "/Covid-Today-WebApp/static/css/main.f6db65c2.css.map",
+    "main.57d89275.js.map": "/Covid-Today-WebApp/static/js/main.57d89275.js.map",
     "787.97c44aa0.chunk.js.map": "/Covid-Today-WebApp/static/js/787.97c44aa0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.537f3feb.js"
+    "static/css/main.f6db65c2.css",
+    "static/js/main.57d89275.js"
   ]
 }

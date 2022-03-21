@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Covid-Today-WebApp/static/media/covidtoday_logo.d1b1c155.jpg"
   },
   {
-    "revision": "166a093e6c231ffe3ad95d8fa86abb06",
+    "revision": "0dca83956846c07a5a6ddb5fee8c254e",
     "url": "/Covid-Today-WebApp/index.html"
   }
 ];

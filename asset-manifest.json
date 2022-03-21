@@ -1,14 +1,14 @@
 {
-  "main.css": "/Covid-Today-WebApp/static/css/main.c8bb4d46.chunk.css",
-  "main.js": "/Covid-Today-WebApp/static/js/main.51e1cf2b.chunk.js",
-  "main.js.map": "/Covid-Today-WebApp/static/js/main.51e1cf2b.chunk.js.map",
-  "static/js/1.78d6886b.chunk.js": "/Covid-Today-WebApp/static/js/1.78d6886b.chunk.js",
-  "static/js/1.78d6886b.chunk.js.map": "/Covid-Today-WebApp/static/js/1.78d6886b.chunk.js.map",
-  "runtime~main.js": "/Covid-Today-WebApp/static/js/runtime~main.01a3c680.js",
-  "runtime~main.js.map": "/Covid-Today-WebApp/static/js/runtime~main.01a3c680.js.map",
-  "static/media/covidtoday_logo.jpg": "/Covid-Today-WebApp/static/media/covidtoday_logo.d1b1c155.jpg",
-  "static/css/main.c8bb4d46.chunk.css.map": "/Covid-Today-WebApp/static/css/main.c8bb4d46.chunk.css.map",
+  "main.css": "/Covid-Today-WebApp/static/css/main.758812a8.chunk.css",
+  "main.js": "/Covid-Today-WebApp/static/js/main.febee2d9.chunk.js",
+  "main.js.map": "/Covid-Today-WebApp/static/js/main.febee2d9.chunk.js.map",
+  "runtime~main.js": "/Covid-Today-WebApp/static/js/runtime~main.2499f985.js",
+  "runtime~main.js.map": "/Covid-Today-WebApp/static/js/runtime~main.2499f985.js.map",
+  "static/js/2.fccd824b.chunk.js": "/Covid-Today-WebApp/static/js/2.fccd824b.chunk.js",
+  "static/js/2.fccd824b.chunk.js.map": "/Covid-Today-WebApp/static/js/2.fccd824b.chunk.js.map",
   "index.html": "/Covid-Today-WebApp/index.html",
-  "precache-manifest.14992788a1b7799ba52c3c465c57cc37.js": "/Covid-Today-WebApp/precache-manifest.14992788a1b7799ba52c3c465c57cc37.js",
-  "service-worker.js": "/Covid-Today-WebApp/service-worker.js"
+  "precache-manifest.15d74776566154e7c5f30dd1105c170b.js": "/Covid-Today-WebApp/precache-manifest.15d74776566154e7c5f30dd1105c170b.js",
+  "service-worker.js": "/Covid-Today-WebApp/service-worker.js",
+  "static/css/main.758812a8.chunk.css.map": "/Covid-Today-WebApp/static/css/main.758812a8.chunk.css.map",
+  "static/media/covidtoday_logo.jpg": "/Covid-Today-WebApp/static/media/covidtoday_logo.d1b1c155.jpg"
 }

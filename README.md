@@ -2,4 +2,4 @@
 ______________________________________________________________________________
 Covid Today is a React web-app for distributing Covid19 information via data visualizations and news articles.  There will be Tableau and D3 visualizations on NC specific data, such as infection rate. Pages populated with relevant news articles and a viz for world data will also be included to share a "bigger picture" of the pandemic. 
 
-Created by Chase Allison and Sam Prewitt
+Created by Chase Allison and Sam Prewitt for ASU Capstone Project Spring 2022.

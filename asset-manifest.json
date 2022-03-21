@@ -1,14 +1,14 @@
 {
-  "main.css": "/Covid-Today-WebApp/static/css/main.c8bb4d46.chunk.css",
-  "main.js": "/Covid-Today-WebApp/static/js/main.51e1cf2b.chunk.js",
-  "main.js.map": "/Covid-Today-WebApp/static/js/main.51e1cf2b.chunk.js.map",
-  "static/js/1.78d6886b.chunk.js": "/Covid-Today-WebApp/static/js/1.78d6886b.chunk.js",
-  "static/js/1.78d6886b.chunk.js.map": "/Covid-Today-WebApp/static/js/1.78d6886b.chunk.js.map",
-  "runtime~main.js": "/Covid-Today-WebApp/static/js/runtime~main.01a3c680.js",
-  "runtime~main.js.map": "/Covid-Today-WebApp/static/js/runtime~main.01a3c680.js.map",
-  "static/media/covidtoday_logo.jpg": "/Covid-Today-WebApp/static/media/covidtoday_logo.d1b1c155.jpg",
-  "static/css/main.c8bb4d46.chunk.css.map": "/Covid-Today-WebApp/static/css/main.c8bb4d46.chunk.css.map",
-  "index.html": "/Covid-Today-WebApp/index.html",
-  "precache-manifest.6acd2b6624bc5927b063076ffe374a3d.js": "/Covid-Today-WebApp/precache-manifest.6acd2b6624bc5927b063076ffe374a3d.js",
-  "service-worker.js": "/Covid-Today-WebApp/service-worker.js"
+  "main.css": "/Covid-Today-WebApp/index/static/css/main.c8bb4d46.chunk.css",
+  "main.js": "/Covid-Today-WebApp/index/static/js/main.51e1cf2b.chunk.js",
+  "main.js.map": "/Covid-Today-WebApp/index/static/js/main.51e1cf2b.chunk.js.map",
+  "static/js/1.54c931ba.chunk.js": "/Covid-Today-WebApp/index/static/js/1.54c931ba.chunk.js",
+  "static/js/1.54c931ba.chunk.js.map": "/Covid-Today-WebApp/index/static/js/1.54c931ba.chunk.js.map",
+  "runtime~main.js": "/Covid-Today-WebApp/index/static/js/runtime~main.dd99a929.js",
+  "runtime~main.js.map": "/Covid-Today-WebApp/index/static/js/runtime~main.dd99a929.js.map",
+  "static/media/covidtoday_logo.jpg": "/Covid-Today-WebApp/index/static/media/covidtoday_logo.d1b1c155.jpg",
+  "static/css/main.c8bb4d46.chunk.css.map": "/Covid-Today-WebApp/index/static/css/main.c8bb4d46.chunk.css.map",
+  "index.html": "/Covid-Today-WebApp/index/index.html",
+  "precache-manifest.f99dd584fd530ba0428ae96e80170c7d.js": "/Covid-Today-WebApp/index/precache-manifest.f99dd584fd530ba0428ae96e80170c7d.js",
+  "service-worker.js": "/Covid-Today-WebApp/index/service-worker.js"
 }

@@ -11,6 +11,8 @@ import Blogs from './pages/blogs';
 import SignUp from './pages/signup';
 import Contact from './pages/contact';
 
+
+
 function App() {
   return (
     <div className="App">
@@ -35,6 +37,8 @@ function App() {
           TODO: <br></br>
             * Embed Tableau Viz
         </p>
+
+        
     </div>
   );
 }

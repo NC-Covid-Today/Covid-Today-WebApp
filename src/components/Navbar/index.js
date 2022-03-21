@@ -7,17 +7,14 @@ const Navbar = () => {
     <>
       <Nav>
         <NavMenu>
-          <NavLink to="/about" activeStyle>
-            About
+          <NavLink to="/index" activeStyle>
+            Home
           </NavLink>
           <NavLink to="/contact" activeStyle>
-            Contact Us
-          </NavLink>
-          <NavLink to="/blogs" activeStyle>
-            Blogs
+            News
           </NavLink>
           <NavLink to="/sign-up" activeStyle>
-            Sign Up
+            About
           </NavLink>
         </NavMenu>
       </Nav>

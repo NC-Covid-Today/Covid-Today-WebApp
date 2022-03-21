@@ -7,9 +7,12 @@
   pointer-events: none;
 }
 
+/* Our LOGO */
 .Site-logo {
-  height: 10vmin;
+  height: 15vmin;
   pointer-events: none;
+  align-items: center;
+
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -36,12 +39,15 @@
   /*flex-direction: column;*/
   display: flex;
   align-items: center; 
+  align-content: space-around;
   justify-content: center;
-  font-size: calc(30px + 2vmin);
+  font-size: calc(45px + 2vmin);
   font-family: "Garamond";
   font-weight: bold;
-  text-align: center;
-  /*line-height:100px;*/
+  text-align: left;
+  position: relative;
+  top: -5px;
+  /*line-height:10px;*/
   color: rgb(0, 0, 0);
   
 }

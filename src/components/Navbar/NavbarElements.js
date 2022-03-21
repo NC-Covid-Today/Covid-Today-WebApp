@@ -15,6 +15,9 @@ export const NavLink = styled(Link)`
   color: #000000;
   display: flex;
   align-items: center;
+  font-family: "Roboto";
+  font-size: 30px;
+
   text-decoration: none;
   padding: 0 1rem;
   height: 100%;
@@ -26,7 +29,7 @@ export const NavLink = styled(Link)`
   
 export const Bars = styled(FaBars)`
   display: none;
-  color: #000000;
+  color: #00000;
   @media screen and (max-width: 768px) {
     display: block;
     position: absolute;
@@ -42,6 +45,8 @@ export const NavMenu = styled.div`
   display: flex;
   align-items: center;
   margin-right: -24px;
+  right: 40px;
+  border: 3px solid green;
   /* Second Nav */
   /* margin-right: 24px; */
   /* Third Nav */

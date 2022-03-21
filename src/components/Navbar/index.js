@@ -5,10 +5,13 @@ import { Nav, NavLink, NavMenu }
 const Navbar = () => {
   return (
     <>
-      <Nav>
+      <Nav className="justify-content-center">
         <NavMenu>
           <NavLink to="/index" activeStyle>
-            Home
+            Local
+          </NavLink>
+          <NavLink to="/about" activeStyle>
+            World
           </NavLink>
           <NavLink to="/contact" activeStyle>
             News

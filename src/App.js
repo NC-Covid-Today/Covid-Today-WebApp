@@ -11,7 +11,7 @@ import Blogs from './pages/blogs';
 import SignUp from './pages/signup';
 import Contact from './pages/contact';
 
-
+import { Tableau } from './Tableau.js';
 
 function App() {
   return (
@@ -37,8 +37,8 @@ function App() {
           TODO: <br></br>
             * Embed Tableau Viz
         </p>
-
-        
+        <h1>Tableau Dashboard in React </h1>
+        <Tableau/>
     </div>
   );
 }

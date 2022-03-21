@@ -42,7 +42,7 @@ export const Bars = styled(FaBars)`
 `;
   
 export const NavMenu = styled.div`
-  display: flex;
+  display: contents;
   align-items: center;
   margin-right: -24px;
   right: 40px;

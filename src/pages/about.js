@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div>
       <h1>
-        Set to HOME / landing page
+        World
       </h1>
     </div>
   );

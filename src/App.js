@@ -1,6 +1,8 @@
 import site_logo from './covidtoday_logo.jpg';
 
 import React from 'react';
+import Tableau from "tableau-react";
+
 import './App.css';
 import Navbar from './components/Navbar';
 import { BrowserRouter as Router, Routes, Route}
@@ -11,9 +13,13 @@ import Blogs from './pages/blogs';
 import SignUp from './pages/signup';
 import Contact from './pages/contact';
 
-import { Tableau } from './Tableau.js';
+//import Page } from './TableauPage.js';
 
 function App() {
+  const options = {
+    hideTabs: true,
+    hideToolbar: true
+  };
   return (
     <div className="App">
       <title className="Site-header"> 
@@ -38,7 +44,18 @@ function App() {
             * Embed Tableau Viz
         </p>
         <h1>Tableau Dashboard in React </h1>
-        <Tableau/>
+        <Tableau
+        url="https://public.tableau.com/views/COVIDimpactonTravel/AirPassengerGrowthHistory?:language=en-US&:display_count=n&:origin=viz_share_link"
+        options={options}
+      />
+
+        <p>
+          Dashboard Source{" "}
+          <a href="https://public.tableau.com/app/profile/yvan.fornes/viz/COVIDimpactonTravel/AirPassengerGrowthHistory">
+            Covid-19 example viz
+          </a>
+        </p>
+
     </div>
   );
 }

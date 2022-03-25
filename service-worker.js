@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Covid-Today-WebApp/precache-manifest.0bfaa575da06dcbd12f5d01b3f09c948.js"
+  "/Covid-Today-WebApp/precache-manifest.857a799ee7bbcfc77ff92d4da881ee7f.js"
 );
 
 workbox.clientsClaim();

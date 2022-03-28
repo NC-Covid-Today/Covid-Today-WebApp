@@ -44,8 +44,21 @@ function App() {
             * Embed Tableau Viz
         </p>
         <h1>Tableau Dashboard in React </h1>
+        
         <Tableau
-        url="https://public.tableau.com/views/COVIDimpactonTravel/AirPassengerGrowthHistory?:language=en-US&:display_count=n&:origin=viz_share_link"
+        url="https://public.tableau.com/views/COVIDimpactonTravel/AirPassengerGrowthHistory?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link"
+        options={options}
+      />
+
+        <p>
+          Dashboard Source{" "}
+          <a href="https://public.tableau.com/app/profile/yvan.fornes/viz/COVIDimpactonTravel/AirPassengerGrowthHistory">
+            Covid-19 example viz
+          </a>
+        </p>
+
+        <Tableau
+        url="https://public.tableau.com/views/Book1-Test2_16442718837560/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link"
         options={options}
       />
 

@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8dc5db47ebaa3d393bd3",
+    "revision": "d9d974f8e0c5a0bdbed8",
     "url": "/Covid-Today-WebApp/static/css/main.758812a8.chunk.css"
   },
   {
-    "revision": "8dc5db47ebaa3d393bd3",
-    "url": "/Covid-Today-WebApp/static/js/main.a6e99dc5.chunk.js"
+    "revision": "d9d974f8e0c5a0bdbed8",
+    "url": "/Covid-Today-WebApp/static/js/main.3678ea42.chunk.js"
   },
   {
     "revision": "705fdd67b87de4bbce74",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Covid-Today-WebApp/static/media/covidtoday_logo.d1b1c155.jpg"
   },
   {
-    "revision": "950d37082304e638fa523b63bf71c547",
+    "revision": "0b302bc9f6690d768f738bce3b8e17bc",
     "url": "/Covid-Today-WebApp/index.html"
   }
 ];

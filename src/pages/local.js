@@ -1,7 +1,7 @@
 import React from 'react';
 import Tableau from "tableau-react";
 
-const Home = () => {
+const Local = () => {
   const options = {
     hideTabs: true,
     hideToolbar: true
@@ -28,4 +28,4 @@ const Home = () => {
   );
 };
   
-export default Home;
+export default Local;

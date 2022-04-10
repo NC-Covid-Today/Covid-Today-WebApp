@@ -7,11 +7,11 @@ import './App.css';
 import Navbar from './components/Navbar';
 import { BrowserRouter as Router, Routes, Route}
     from 'react-router-dom';
-import Local from './pages/local';
+import Home from './pages';
 import About from './pages/about';
 import Blogs from './pages/blogs';
-import News from './pages/news';
-import World from './pages/world';
+import SignUp from './pages/signup';
+import Contact from './pages/contact';
 
 //import Page } from './TableauPage.js';
 
@@ -32,16 +32,16 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route exact path='/local' element={<Local />} />
+          <Route exact path='/' element={<Home />} />
           <Route path='/about' element={<About />} />
-          <Route path='/world' element={<World />} />
+          <Route path='/contact' element={<Contact />} />
           <Route path='/blogs' element={<Blogs />} />
-          <Route path='/news' element={<News />} />
+          <Route path='/sign-up' element={<SignUp />} />
         </Routes>
       </Router>         
         <p>
           TODO: <br></br>
-            * testtesttest
+            * Embed Tableau Viz
         </p>
         <h1>Tableau Dashboard in React </h1>
         

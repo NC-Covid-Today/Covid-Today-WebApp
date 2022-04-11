@@ -10,21 +10,25 @@ const About = () => {
   return (
     <div>
       <h1>
-        **BETA** World 
+        World Covid Data
       </h1>
+      <b> Todo: </b>
+        <b>1. add a paragraph about the world data and what is to come in the future! Otherwise close to finished </b> 
+        <b>2. Make sure the viz is centered. </b>
 
-      <Tableau
-        url="https://public.tableau.com/views/COVIDimpactonTravel/AirPassengerGrowthHistory?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link"
+      <center>
+        <Tableau
+        url="https://public.tableau.com/views/WorldCovidMap/Dash?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link"
         options={options}
       />
 
         <p>
           Dashboard Source{" "}
-          <a href="https://public.tableau.com/app/profile/yvan.fornes/viz/COVIDimpactonTravel/AirPassengerGrowthHistory">
-            Covid-19 example viz
+          <a href="https://public.tableau.com/app/profile/sam.prewitt/viz/WorldCovidMap/Dash">
+            World visualization created by Sam Prewitt with public data from CDC.
           </a>
         </p>
-
+        </center>
         
 
     </div>

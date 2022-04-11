@@ -1,7 +1,7 @@
 import site_logo from './covidtoday_logo.jpg';
 
 import React from 'react';
-import Tableau from "tableau-react";
+//import Tableau from "tableau-react";
 
 import './App.css';
 import Navbar from './components/Navbar';
@@ -9,7 +9,7 @@ import { BrowserRouter as Router, Routes, Route}
     from 'react-router-dom';
 import Home from './pages';
 import About from './pages/about';
-import Blogs from './pages/blogs';
+import Blogs from './pages/index';
 import SignUp from './pages/signup';
 import Contact from './pages/contact';
 
@@ -39,12 +39,8 @@ function App() {
           <Route path='/sign-up' element={<SignUp />} />
         </Routes>
       </Router>         
-        <p>
-          TODO: <br></br>
-            * Embed Tableau Viz
-        </p>
-        <h1>Tableau Dashboard in React </h1>
-        
+            
+        TEST... this means the page was updated
         
     </div>
   );

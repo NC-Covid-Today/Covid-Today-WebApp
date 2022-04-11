@@ -7,7 +7,7 @@ const Navbar = () => {
     <>
       <Nav className="justify-content-center">
         <NavMenu>
-          <NavLink to="/index" activeStyle>
+          <NavLink to="/blogs" activeStyle>
             Local
           </NavLink>
           <NavLink to="/about" activeStyle>

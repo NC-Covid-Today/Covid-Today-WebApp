@@ -18,12 +18,17 @@ const Contact = () => {
       </a>
         <p>
           In the continous pursuit for a zero-COVID nation, China has issued a policy to have all indoor pets belonging
-          to COVID-19 patients killed. Recent <a href="https://www.reddit.com/r/ThatsInsane/comments/u0fxgd/pets_filled_up_in_bags_for_their_duly_execution/"> videos </a> 
+          to COVID-19 patients killed. Recent <a href="https://www.reddit.com/r/ThatsInsane/comments/u0fxgd/pets_filled_up_in_bags_for_their_duly_execution/" target="_blank"> videos </a> 
           have surfaced from Shanghai China where pets were collected in netted bags and placed on the streets,
           waiting to be carried off to their execution.
         </p>
         <p>
-        
+           This isn't the first time we've heard of this. Back in March of 2022 there was a neighborhood in the Anci district
+           of Langfang city that was ordered to complete a cull of all indoor animals of coronavirus patients.
+        </p>
+        <p>
+          According to the United States Centers for Disease Control and Prevention; pets can get COVID-19 from humans,
+          but the risk of pets spreading the disease to people was "low". It is still not clear how many animals have been killed.
         </p>
       </body>
     </div>

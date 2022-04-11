@@ -40,7 +40,16 @@ function App() {
         </Routes>
       </Router>         
             
-        TEST... this means the page was updated
+      <center>
+          ___
+          <p>
+        NC Covid Today is a student made React web-app for making the big data behind Covid-19 more understandable. 
+        Local - Is home to North Carolina specific Covid-19 data.
+        World - Displays Covid-19 data for the all countries actively sharing their data.
+        News - Contains links and descriptions of websites where you can find more reliable information about Covid-19.
+        About - Contains future plans and more infromation about NC Covid Today. 
+          </p>
+        </center>
         
     </div>
   );

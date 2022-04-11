@@ -12,9 +12,18 @@ const About = () => {
       <h1>
         World Covid Data
       </h1>
-      <b> Todo: </b>
-        <b>1. add a paragraph about the world data and what is to come in the future! Otherwise close to finished </b> 
-        <b>2. Make sure the viz is centered. </b>
+      <b>
+        “After the short, sharp shock of Omicron, the pandemic phase of COVID-19 looks to be ending for most locations, unless a significant and severe new variant emerges.
+        This update discusses what we’ve learned from Omicron, the prospects for the rest of 2022, and presents three potential criteria for defining COVID-19 as endemic.”
+        - McKinsey & Company
+      </b>
+      <br></br>
+      <br>
+        The Tableau visualization below lets you compare different countries at this stage of the pandemic.
+      </br>
+      <br>
+        Click and drag to select. Then average cases per million, people fully vaccinated, positive rate, and total deaths are displayed for each country.
+      </br>
 
       <center>
         <Tableau

@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Covid-Today-WebApp/static/css/main.8a080597.css",
+    "main.css": "/Covid-Today-WebApp/static/css/main.f3b7c93c.css",
     "main.js": "/Covid-Today-WebApp/static/js/main.b77c4f00.js",
     "static/media/covidtoday_logo.jpg": "/Covid-Today-WebApp/static/media/covidtoday_logo.f8339b1b70fcf099fd48.jpg",
     "index.html": "/Covid-Today-WebApp/index.html",
-    "main.8a080597.css.map": "/Covid-Today-WebApp/static/css/main.8a080597.css.map",
+    "main.f3b7c93c.css.map": "/Covid-Today-WebApp/static/css/main.f3b7c93c.css.map",
     "main.b77c4f00.js.map": "/Covid-Today-WebApp/static/js/main.b77c4f00.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a080597.css",
+    "static/css/main.f3b7c93c.css",
     "static/js/main.b77c4f00.js"
   ]
 }

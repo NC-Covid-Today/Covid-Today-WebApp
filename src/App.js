@@ -1,7 +1,7 @@
 import site_logo from './covidtoday_logo.jpg';
 
 import React from 'react';
-//import Tableau from "tableau-react";
+import Tableau from "tableau-react";
 
 import './App.css';
 import Navbar from './components/Navbar';
@@ -9,7 +9,7 @@ import { BrowserRouter as Router, Routes, Route}
     from 'react-router-dom';
 import Home from './pages';
 import About from './pages/about';
-import Blogs from './pages/index';
+import Blogs from './pages/blogs';
 import SignUp from './pages/signup';
 import Contact from './pages/contact';
 
@@ -40,17 +40,15 @@ function App() {
         </Routes>
       </Router>         
             
-      <center>
-          ___
-          <p>
-        NC Covid Today is a student made React web-app for making the big data behind Covid-19 more understandable. <br></br>
-        Local - Is home to North Carolina specific Covid-19 data.<br></br>
-        World - Displays Covid-19 data for the all countries actively sharing their data.<br></br>
-        News - Contains links and descriptions of websites where you can find more reliable information about Covid-19.<br></br>
-        About - Contains future plans and more infromation about NC Covid Today. <br></br>
-          </p>
-        </center>
-        
+          
+          <p> NC Covid Today is a student made React web-app for making the big data behind Covid-19 more understandable. <br />
+           Local - Is home to North Carolina specific Covid-19 data.<br />
+           World - Displays Covid-19 data for the all countries actively sharing their data.<br />
+           News - Contains links and descriptions of websites where you can find more reliable information about Covid-19.<br />
+           About - Contains future plans and more infromation about NC Covid Today.</p>
+       
+      
+
     </div>
   );
 }

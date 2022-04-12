@@ -9,7 +9,7 @@ const Local = () => {
   return (
     <div>
       <h1>
-        ** INDEX **
+        ** NOT USED **
       </h1>
 
       <Tableau

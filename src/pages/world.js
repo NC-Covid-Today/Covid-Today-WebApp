@@ -10,19 +10,20 @@ const World = () => {
   return (
     <div>
       <h1>
-        **BETA** World 
+        **NOT USED** World 
       </h1>
 
       <Tableau
-        url="https://public.tableau.com/views/COVIDimpactonTravel/AirPassengerGrowthHistory?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link"
+        url="https://public.tableau.com/views/WorldCovidMap/Dash?:language=en-US&:display_count=n&:origin=viz_share_link"
         options={options}
       />
 
         <p>
           Dashboard Source{" "}
-          <a href="https://public.tableau.com/app/profile/yvan.fornes/viz/COVIDimpactonTravel/AirPassengerGrowthHistory">
-            Covid-19 example viz
+          <a href="https://public.tableau.com/app/profile/sam.prewitt/viz/WorldCovidMap/Dash">
+            World Covid-19 viz
           </a>
+          created by Sam Prewitt with public CDC data. 
         </p>
 
         

@@ -1,11 +1,15 @@
 import React from 'react';
-
+import Tableau from "tableau-react";
 const Blogs = () => {
+  const options = {
+    hideTabs: true,
+    hideToolbar: true
+  };
   return (
     <div>
       
     <h1>
-        
+        NOT USED
       </h1>
 
       <br>
@@ -31,7 +35,7 @@ const Blogs = () => {
         <p>
           Dashboard Source{" "}
           <a href="https://public.tableau.com/app/profile/sam.prewitt/viz/NC_Map_animated/MapofNC">
-            world viz
+            NC Map
           </a>
         </p>
 
@@ -40,7 +44,5 @@ const Blogs = () => {
       
   );
 };
-
-
-
+  
 export default Blogs;

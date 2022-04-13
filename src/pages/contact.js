@@ -36,11 +36,8 @@ const Contact = () => {
       <p>
 
 
-
-
       </p>
-      <br>
-      </br>
+      
       
       <h1>Are we still making progress against the Corona Virus</h1>
       <a href="https://www.bbc.com/news/health-52354520">

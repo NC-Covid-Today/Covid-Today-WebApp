@@ -1,5 +1,5 @@
 import React from 'react';
-
+//the about page
 const SignUp = () => {
   return (
     <div>
@@ -8,6 +8,13 @@ const SignUp = () => {
         North Carolina does have a [NC Covid Dashboard](https://covid19.ncdhhs.gov/dashboard), however this site seemed more focused towards lawmakers than the average person.
         Information overload... Fill this in more as we finish up :)
       </b>
+      <h2>Why use our site?</h2>
+      <ul>
+  <li>Get local information fast</li>
+  <li>Quick and easy to stay up to date on cases around the world</li>
+  <li>Relevant news</li>
+  <li>poop</li>
+    </ul>
     </div>
 
 

@@ -57,11 +57,13 @@ color: rgb(0, 0, 0);
   
 }
 
-/*
 .App-link {
-  color: #61dafb;
+  color: #bdbdbd;
 }
+/*
+un-commenting to change color from blue
 */
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -71,3 +73,19 @@ color: rgb(0, 0, 0);
   }
 }
 
+/*
+THIS WILL EFFECT EVERY PAGE
+*/
+p {
+  color: black;
+  font-size: 18px;
+  margin: 50px;
+  
+}
+
+/*
+.div-1 {
+  color:blue;
+  text-align: justify;
+}
+*/

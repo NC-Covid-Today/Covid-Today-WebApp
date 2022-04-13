@@ -42,6 +42,7 @@ const Blogs = () => {
           </a>
           &nbsp;created by Sam Prewitt with data from NC Covid Dashboard.
         </p>
+        ___________________________________________________________________________________
       </center>
 
     </div>

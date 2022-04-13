@@ -9,7 +9,7 @@ const Index = () => {
   return (
     <div>
       <h1>
-        Local - North Carolina
+        not displayed
       </h1>
 
       <br>

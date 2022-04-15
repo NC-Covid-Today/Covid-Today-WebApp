@@ -1,5 +1,5 @@
 {
-  "main.css": "/Covid-Today-WebApp/static/css/main.9e21d3f9.chunk.css",
+  "main.css": "/Covid-Today-WebApp/static/css/main.6a11dd2e.chunk.css",
   "main.js": "/Covid-Today-WebApp/static/js/main.1206b77b.chunk.js",
   "main.js.map": "/Covid-Today-WebApp/static/js/main.1206b77b.chunk.js.map",
   "runtime~main.js": "/Covid-Today-WebApp/static/js/runtime~main.2499f985.js",
@@ -7,8 +7,8 @@
   "static/js/2.6057951b.chunk.js": "/Covid-Today-WebApp/static/js/2.6057951b.chunk.js",
   "static/js/2.6057951b.chunk.js.map": "/Covid-Today-WebApp/static/js/2.6057951b.chunk.js.map",
   "index.html": "/Covid-Today-WebApp/index.html",
-  "precache-manifest.ab1c32956e888986cb39d95cbe23b8c1.js": "/Covid-Today-WebApp/precache-manifest.ab1c32956e888986cb39d95cbe23b8c1.js",
+  "precache-manifest.7c514ccade3a8281603d3df8357a4b69.js": "/Covid-Today-WebApp/precache-manifest.7c514ccade3a8281603d3df8357a4b69.js",
   "service-worker.js": "/Covid-Today-WebApp/service-worker.js",
-  "static/css/main.9e21d3f9.chunk.css.map": "/Covid-Today-WebApp/static/css/main.9e21d3f9.chunk.css.map",
+  "static/css/main.6a11dd2e.chunk.css.map": "/Covid-Today-WebApp/static/css/main.6a11dd2e.chunk.css.map",
   "static/media/covidtoday_logo.jpg": "/Covid-Today-WebApp/static/media/covidtoday_logo.d1b1c155.jpg"
 }

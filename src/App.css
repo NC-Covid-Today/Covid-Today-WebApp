@@ -87,12 +87,12 @@ changed margin from 50->200
 p {
   color: black;
   font-size: 18px;
-  margin: 200px;
+  margin: 20px 100px 20px;
   
 }
 
 /*
-NEWS
+NEWS/CONTACT
 */
 p.news {
   color: black;
@@ -112,3 +112,18 @@ ul.news {
   margin: 20px 500px 20px;
 }
 
+/*
+ABOUT/SIGNUP
+*/
+p.about {
+  color: black;
+  font-size: 20px;
+  margin: 20px 400px 20px;
+}
+
+ul.about {
+  text-align:justify;
+  color: black;
+  font-size: 20px;
+  margin: 20px 500px 20px;
+}

@@ -14,7 +14,7 @@ const Contact = () => {
       <h1>China's COVID pet policy</h1>
       <a href="https://www.businessinsider.com/china-langfang-district-says-kill-covid-patients-pets-2022-3">
         <img alt="Buisiness Insider" src="https://gray-wmbf-prod.cdn.arcpublishing.com/resizer/ZY8SVToc6Pht8W4W0H-ebqR0d24=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/YHZGYSGW2NAFNPJ7BPF3ERJYHQ.jpg"
-        target="_blank" width="560" height="340"></img>
+        target="_blank" width="660" height="400"></img>
       </a>
       <p class="news">
         In the continous pursuit for a zero-COVID nation, China has issued a policy to have all indoor pets belonging to COVID-19 patients killed. 

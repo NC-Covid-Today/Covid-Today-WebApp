@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+//import './contact.css'; //added this to try and find css issue IT DID NOTHING!
 import App from './App';
 //import reportWebVitals from './reportWebVitals';
 

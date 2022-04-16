@@ -1,5 +1,12 @@
+/*
+got rid of a text-align: center; below
+when i did this only news stopped showing up????????????
+put it back and it works again wtf
+
+*/
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -75,17 +82,33 @@ un-commenting to change color from blue
 
 /*
 THIS WILL EFFECT EVERY PAGE
+changed margin from 50->200
 */
 p {
   color: black;
   font-size: 18px;
-  margin: 50px;
+  margin: 200px;
   
 }
 
 /*
-.div-1 {
-  color:blue;
-  text-align: justify;
-}
+NEWS
 */
+p.news {
+  color: black;
+  font-size: 20px;
+  margin: 20px 400px 20px;
+  
+}
+
+h4.news {
+  text-align:right;
+}
+
+ul.news {
+  text-align:justify;
+  color: black;
+  font-size: 20px;
+  margin: 20px 500px 20px;
+}
+

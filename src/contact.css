@@ -1,10 +1,15 @@
 /*
     it doesn't feel like this file is effecting contact/news
+    moved into pages to see how it changes
+    //couldn't publish when it was in pages?
+    rather it would publich, but coudlnt find the deployment
+    div {
+    text-align: left;
+    color: blue;
+}
 */
 
-div {
-    text-align: left;
-}
+
 
 body {
     margin: 50px;
@@ -19,10 +24,14 @@ body {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
       monospace;
   }
-/*
+
+  /*
+  tried adding "!important" (color: blue !important;)
+  it did not overwrite anything
+  */
   p {
     margin: 50px;
     color: blue;
     font-size: 16px;
   }
-  */
+  

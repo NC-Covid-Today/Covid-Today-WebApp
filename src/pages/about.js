@@ -6,17 +6,20 @@ const About = () => {
     hideTabs: true,
     hideToolbar: true,
     width: 1150,
-    height: 950
+    height: 650
   };
 
   return (
     <div>
 
-      <h2>
-        <head>
+      <h1>
         World Covid-19
-        </head>
-      </h2>
+      </h1>
+
+      <h3>
+        April 2022
+      </h3>
+
       <p>
         “After the short, sharp shock of Omicron, the pandemic phase of COVID-19 looks to be ending for most locations, unless a significant and severe new variant emerges. This update discusses what we’ve learned from Omicron, the prospects for the rest of 2022, and presents three potential criteria for defining COVID-19 as endemic.”
       </p>
@@ -35,14 +38,15 @@ const About = () => {
         <p>
           Dashboard Source{" "}
           <a href="https://public.tableau.com/app/profile/sam.prewitt/viz/WorldCovidMap/Dash">
-            World Covid-19 viz
+            World Covid-19 visualization
           </a>
           &nbsp;created by Sam Prewitt with public CDC data.
         </p>
         ___________________________________________________________________________________
       </center>
 
-
+      
+      
     </div>
   );
 };

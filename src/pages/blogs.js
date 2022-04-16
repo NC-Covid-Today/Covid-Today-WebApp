@@ -23,14 +23,14 @@ const Blogs = () => {
         April 2022
       </h3>
 
-      <p>
+      <p class="local">
         North Carolina Covid-19 infections are going down! Mask mandates are ending and the world is starting to go back to “normal”.
         By clicking on the play button on the <em>Covid-19 Over the Past 180 days viz</em> you can see NCs infection rates for the past 180 days.
         Dark blue represents a low infection rate per county while dark red means there are lots of cases (107,105 at the peak).
         Hovering over a county will display its specific cases (if reported).
       </p>
 
-      <p>
+      <p class="local">
         This data comes from the NC Covid Dashboard and shows that while cases were high in January they have gotten significantly lower since.
       </p>
 
@@ -50,7 +50,7 @@ const Blogs = () => {
         ___________________________________________________________________________________
       </center>
 
-      <p>
+      <p class="local">
         The severity bar is another indicator of how well the state is doing. Overall cases are below XXX so we see a Green bar symbolizing that the state is doing well compared to the past 180 days.
       </p>
 

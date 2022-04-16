@@ -125,5 +125,24 @@ ul.about {
   text-align:justify;
   color: black;
   font-size: 20px;
-  margin: 20px 500px 20px;
+  margin: 20px 600px 20px;
+}
+
+/*
+LOCAL/BLOGS
+*/
+p.local {
+  color: black;
+  font-size: 20px;
+  margin: 20px 400px 20px;
+}
+
+/*
+WORLD/ABOUT
+*/
+
+p.world {
+  color: black;
+  font-size: 20px;
+  margin: 20px 400px 20px;
 }

@@ -4,7 +4,7 @@ const SignUp = () => {
   return (
     <div>
       <h1 class="about">What is NC Covid Today?</h1>
-      <p class="about">Covid Today is a web-app created by Sam Prewitt and Chase Allison for CS-4800 capstone project at 
+      <p class="about">Covid Today is a web-app created by Sam Prewitt and Chase Allison for our CS-4800 capstone project at 
         Appalachian State University. Our goal is to help share information about the Covid-19 pandemic in an 
         easy to understand way. North Carolina does have a <a href="https://covid19.ncdhhs.gov/dashboard" target="_blank"> Covid Dashboard</a>,  
         however this site is more focused towards people in healthcare and lawmakers, rather than the average person.

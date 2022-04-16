@@ -1,6 +1,6 @@
 import React from 'react';
 import Tableau from "tableau-react";
-const Blogs = () => {
+const Local = () => {
   const options = {
     hideTabs: false,
     hideToolbar: false,
@@ -17,7 +17,7 @@ const Blogs = () => {
     <div>
 
       <h1>
-        Local Covid-19
+        Local Covid-19 (CLASS NAME UPDATED :)
       </h1>
       <h3>
         April 2022
@@ -88,4 +88,4 @@ const Blogs = () => {
   );
 };
 
-export default Blogs;
+export default Local;

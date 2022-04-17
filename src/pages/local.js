@@ -17,7 +17,7 @@ const Local = () => {
     <div>
 
       <h1>
-        Local Covid-19 (CLASS NAME UPDATED :)
+        Local Covid-19
       </h1>
       <h3>
         April 2022
@@ -25,7 +25,7 @@ const Local = () => {
 
       <p class="local">
         North Carolina Covid-19 infections are going down! Mask mandates are ending and the world is starting to go back to “normal”.
-        By clicking on the play button on the <em>Covid-19 Over the Past 180 days viz</em> you can see NCs infection rates for the past 180 days.
+        By clicking on the play button on the <em>Covid-19 Over the Past 180 days viz</em> you can see NC's infection rate for the past 180 days.
         Dark blue represents a low infection rate per county while dark red means there are lots of cases (107,105 at the peak).
         Hovering over a county will display its specific cases (if reported).
       </p>
@@ -47,22 +47,28 @@ const Local = () => {
           </a>
           &nbsp;created by Sam Prewitt with data from NC Covid Dashboard.
         </p>
+
+        <p class="local"> 
+        </p>
         ___________________________________________________________________________________
       </center>
 
       <p class="local">
-        The severity bar is another indicator of how well the state is doing. Overall cases are below XXX so we see a Green bar symbolizing that the state is doing well compared to the past 180 days.
+        Lots of people are getting vaccinated! Over 15 million doses have been administered in North Carolina. Below are pie and bar charts displaying the doses per manufacturer and number administered per age group.
+        By hovering over a section of the visualization, you can see more data. 
       </p>
 
-      TODO: GREEN D3 bar
+      <p class="local">
+        "You have a spot, take you shot!"
+        </p>
 
+      <p class="local">
+        - <a href="https://covid19.ncdhhs.gov/vaccines?utm_source=(direct)&utm_medium=(none)&utm_campaign=myspot.nc.gov"> MySpot.nc.gov</a>
+      </p>
 
       <center>
-        ___________________________________________________________________________________
-        TODO: paragraph about use & get the viz formatted!
-      </center>
-
-      <center>
+       ___________________________________________________________________________________
+      
         <Tableau
           url="https://public.tableau.com/views/VaxPieChartV2_1_0/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"
           options={options2}
@@ -75,13 +81,19 @@ const Local = () => {
           </a>
           &nbsp;created by Sam Prewitt with public CDC data.
         </p>
+
+        <p class="local"> 
+        </p>
         ___________________________________________________________________________________
       </center>
 
 
-      
-      TODO: Chase's Tableau Viz
 
+      TODO: Chase's Tableau Viz
+      
+      <center>
+      ___________________________________________________________________________________
+      </center>
     </div>
 
 

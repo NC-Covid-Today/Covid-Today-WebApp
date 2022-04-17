@@ -1,7 +1,7 @@
 import React from "react";
-import { Nav, NavLink, NavMenu } 
-    from "./NavbarElements";
-  
+import { Nav, NavLink, NavMenu }
+  from "./NavbarElements";
+
 const Navbar = () => {
   return (
     <>
@@ -10,13 +10,13 @@ const Navbar = () => {
           <NavLink to="/local" activeStyle>
             Local
           </NavLink>
-          <NavLink to="/about" activeStyle>
+          <NavLink to="/world" activeStyle>
             World
           </NavLink>
-          <NavLink to="/contact" activeStyle>
+          <NavLink to="/news" activeStyle>
             News
           </NavLink>
-          <NavLink to="/sign-up" activeStyle>
+          <NavLink to="/about" activeStyle>
             About
           </NavLink>
         </NavMenu>
@@ -24,5 +24,5 @@ const Navbar = () => {
     </>
   );
 };
-  
+
 export default Navbar;

@@ -4,13 +4,13 @@ const Local = () => {
   const options = {
     hideTabs: false,
     hideToolbar: false,
-    width: 1050,
+    width: 975,
     height: 650
   };
   const options2 = {
     hideTabs: false,
     hideToolbar: false,
-    width: 1050,
+    width: 975,
     height: 850
   };
   return (
@@ -27,7 +27,7 @@ const Local = () => {
         North Carolina Covid-19 infections are going down! Mask mandates are ending and the world is starting to go back to “normal”.
         By clicking on the play button on the <em>Covid-19 Over the Past 180 days viz</em> you can see NC's infection rate for the past 180 days.
         Dark blue represents a low infection rate per county while dark red means there are lots of cases (107,105 at the peak).
-        Hovering over a county will display its specific cases (if reported).
+        Hovering over a county will display its specific cases.
       </p>
 
         <center>
@@ -47,9 +47,7 @@ const Local = () => {
 
         <br>
         </br>
-        <p class= "local">
-        ___________________________________________________________________________________
-        </p>
+
         <br>
         </br>
         <br>

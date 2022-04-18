@@ -5,7 +5,7 @@ const World = () => {
   const options = {
     hideTabs: true,
     hideToolbar: true,
-    width: 1150,
+    width: 1050,
     height: 850
   };
 
@@ -27,9 +27,6 @@ const World = () => {
       <br />
 
 
-      <center>
-        ___________________________________________________________________________________
-      </center>
 
       <center>
         <Tableau
@@ -37,16 +34,39 @@ const World = () => {
           options={options}
         />
         <p class="world">The Tableau visualization above lets you compare different countries at this stage of the pandemic.
-          Click and drag to select. Then average cases per million, people fully vaccinated, positive rate, and total deaths are displayed for each country.
+          Click and drag to select.
         </p>
         <p>
           Dashboard Source{" "}
           <a href="https://public.tableau.com/app/profile/sam.prewitt/viz/WorldCovidMap_Upd4_16/Dash2#2">
             World Covid-19 visualization
           </a>
-          &nbsp;created by Sam Prewitt with public CDC data.
+          &nbsp;created with public CDC data.
         </p>
+        
+      
+        <br>
+        </br>
+        
+        <Tableau
+          url="https://public.tableau.com/views/CovidDeathsbyCountry/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"
+          options={options}
+        />
+      
+      <p>
+          Dashboard Source{" "}
+          <a href="https://public.tableau.com/app/profile/sam.prewitt/viz/CovidDeathsbyCountry/Dashboard1#3">
+            Death's per country to Covid-19 visualization
+          </a>
+          &nbsp;created with public CDC data.
+        </p>
+      
+      
+      
         ___________________________________________________________________________________
+      
+      
+      
       </center>
 
 

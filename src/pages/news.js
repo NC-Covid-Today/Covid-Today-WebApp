@@ -11,6 +11,8 @@ const News = () => {
       <body>
         <h4 class="news">Links to articles are provided by the images below</h4>
         
+
+
         <h1>Are we due for another COVID spike?</h1>
         <a href="https://www.usnews.com/news/health-news/articles/2022-03-23/will-the-u-s-see-another-coronavirus-surge-from-the-ba-2-variant#:~:text=For%20now%2C%20many%20predict%20an,Anthony%20Fauci%20said%20on%20Tuesday.">
           <img alt="U.S. News" src="https://www.charlotteobserver.com/latest-news/8nfi07/picture257480099/alternates/FREE_1140/CLT_COVID_15.JPG"

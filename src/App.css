@@ -87,7 +87,7 @@ changed margin from 50->200
 p {
   color: black;
   font-size: 18px;
-  margin: 20px 100px 20px;
+  margin: 20px 500px 20px;
   
 }
 
@@ -146,3 +146,4 @@ p.world {
   font-size: 20px;
   margin: 20px 400px 20px;
 }
+

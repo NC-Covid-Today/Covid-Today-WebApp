@@ -54,11 +54,9 @@ function App() {
       </Router>         
             
           
-          <p> NC Covid Today is a student made React web-app for making the big data behind Covid-19 more understandable. <br />
-           Local - Is home to North Carolina specific Covid-19 data.<br />
-           World - Displays Covid-19 data for the all countries actively sharing their data.<br />
-           News - Contains links and descriptions of websites where you can find more reliable information about Covid-19.<br />
-           About - Contains future plans and more infromation about NC Covid Today.</p>
+          <p class = "app"> NC Covid Today is a student made React web-app for making the big data behind Covid-19 more understandable. <br />
+            For more information on how Watauga is handling COVID-19 be sure to check out the monthly <a href="https://www.apphealthcare.com/wp-content/uploads/2022/04/COVID-19-Situation-Update-Watauga-County-4.1.2022.pdf" target="_blank">Watauga Situation Update</a> .
+           </p>
            
       
 

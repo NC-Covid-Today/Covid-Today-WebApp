@@ -12,8 +12,8 @@ const News = () => {
         <h4 class="news">Links to articles are provided by the images below</h4>
         
         <h1>Are we due for another COVID spike?</h1>
-        <a href="https://khn.org/morning-breakout/preparation-not-panic-health-officials-address-next-possible-covid-surge/">
-          <img alt="KHN news" src="https://www.charlotteobserver.com/latest-news/8nfi07/picture257480099/alternates/FREE_1140/CLT_COVID_15.JPG"
+        <a href="https://www.usnews.com/news/health-news/articles/2022-03-23/will-the-u-s-see-another-coronavirus-surge-from-the-ba-2-variant#:~:text=For%20now%2C%20many%20predict%20an,Anthony%20Fauci%20said%20on%20Tuesday.">
+          <img alt="U.S. News" src="https://www.charlotteobserver.com/latest-news/8nfi07/picture257480099/alternates/FREE_1140/CLT_COVID_15.JPG"
             target="_blank" width="750" height="450"></img>
         </a>
         <p class="news">
@@ -23,10 +23,18 @@ const News = () => {
         </p>
 
         <p class="news">
-          It seems that cases will start to rise again, but we should not panic, says Surgeon General Vivek Murthy.
-          The emergence of of this new subvariant in Eurepoean countries has led to a rise in covid
-          NOT SURE IF I WANT TO INCLUDE THIS ANYMORE IF YOU LOOK SOME STUFF UP IT COULD BE GOOD TO ADD SOME STUFF HERTE
+        It seems that cases will start to rise again, but we should not panic, says Surgeon General Vivek Murthy. The emergence of 
+        this new subvariant in European countries has been cause for worry as coronavirus waves in Europe have long proven to predict a surge in the U.S.. 
+        For now, many health officials predict an increase in cases for the U.S., but say it will not be equivalent to the previous peaks we’ve seen before. 
+        “If we are going to see an uptick, we should start seeing it within the next week or so,” Fauci said Tuesday, March 22.
         </p>
+
+        <p class="news">
+        Since then, we’ve seen new cases rise from a seven day average of 29,090 to 36,687. Although the weekly average for new cases in the U.S. 
+        has gone up, the trends are unalike those of the previous spikes. For the near future be sure to take the necessary precautions in keeping yourself 
+        safe as this could be the last rise in COVID-19 we see for a long time.
+        </p>
+
 
         <br>
         </br>

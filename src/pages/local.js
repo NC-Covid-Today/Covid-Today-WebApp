@@ -4,13 +4,13 @@ const Local = () => {
   const options = {
     hideTabs: false,
     hideToolbar: false,
-    width: 975,
+    width: 1050,
     height: 650
   };
   const options2 = {
     hideTabs: false,
     hideToolbar: false,
-    width: 975,
+    width: 1050,
     height: 850
   };
   return (

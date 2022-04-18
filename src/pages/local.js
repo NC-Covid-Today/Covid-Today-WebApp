@@ -30,7 +30,7 @@ const Local = () => {
         Hovering over a county will display its specific cases (if reported).
       </p>
 
-        
+        <center>
         <p class= "local">
         <Tableau
           url="https://public.tableau.com/views/NC_Map_animated/MapofNC?:language=en-US&:display_count=n&:origin=viz_share_link"
@@ -43,9 +43,13 @@ const Local = () => {
           </a>
           &nbsp;created with data from the NC Covid Dashboard.
         </p>
-        
+        </center>
+
         <br>
         </br>
+        <p class= "local">
+        ___________________________________________________________________________________
+        </p>
         <br>
         </br>
         <br>

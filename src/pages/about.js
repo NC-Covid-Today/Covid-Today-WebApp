@@ -13,6 +13,7 @@ const About = () => {
       <br>
       </br>
 
+      <center>
       <h2 class="about">Why use our site?</h2>
       <ul class="about">
         <li>Get local information fast</li>
@@ -20,6 +21,7 @@ const About = () => {
         <li>View the latest Watagua COVID-19 Situation Update</li>
         <li>Relevant COVID-19 news from around the world</li>
       </ul>
+      </center>
 
       <p class="about">
         Feel free to visit the <a href="https://covid19.ncdhhs.gov/dashboard" target="_blank"> NC Covid Dashboard</a> as well!

@@ -5,7 +5,7 @@ const World = () => {
   const options = {
     hideTabs: true,
     hideToolbar: true,
-    width: 1050,
+    width: 975,
     height: 850
   };
 

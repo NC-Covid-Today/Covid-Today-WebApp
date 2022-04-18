@@ -9,7 +9,7 @@ const News = () => {
         <title>Covid News Today</title>
       </head>
       <body>
-        <h4 class="news">Links to articles are provided by the images below</h4>
+      
         
 
 

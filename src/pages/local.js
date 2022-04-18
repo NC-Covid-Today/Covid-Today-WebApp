@@ -39,13 +39,28 @@ const Local = () => {
           url="https://public.tableau.com/views/NC_Map_animated/MapofNC?:language=en-US&:display_count=n&:origin=viz_share_link"
           options={options}
         />
+        <p>
+          Dashboard Source{" "}
+          <a href="https://public.tableau.com/app/profile/sam.prewitt/viz/NC_Map_animated/MapofNC">
+            Past 180 days visualization
+          </a>
+          &nbsp;created with data from the NC Covid Dashboard.
+        </p>
+
+        <p>         
+        </p>
+
+        <Tableau
+          url="https://public.tableau.com/views/Book1_16502407046280/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"
+          options={options2}
+        />
 
         <p>
           Dashboard Source{" "}
           <a href="https://public.tableau.com/app/profile/sam.prewitt/viz/NC_Map_animated/MapofNC">
-            North Carolina visualization
+            North Carolina Infections visualization
           </a>
-          &nbsp;created by Sam Prewitt with data from NC Covid Dashboard.
+          &nbsp;created with data from the NC Covid Dashboard.
         </p>
 
         <p class="local"> 

@@ -121,11 +121,17 @@ p.about {
   margin: 20px 375px 20px;
 }
 
+
+/*
+margin: 20px 400px 20px;
+changed to
+ margin: 20px 600px 20px;
+*/
 ul.about {
   text-align:justify;
   color: black;
   font-size: 20px;
-  margin: 20px 400px 20px;
+  margin: 20px 600px 20px;
 }
 
 /*

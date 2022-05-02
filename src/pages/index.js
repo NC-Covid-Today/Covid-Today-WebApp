@@ -4,7 +4,7 @@ import Tableau from "tableau-react";
 const Index = () => {
   return (
     <div>
-      
+
     </div>
   );
 };

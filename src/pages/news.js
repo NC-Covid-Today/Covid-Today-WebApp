@@ -9,8 +9,8 @@ const News = () => {
         <title>Covid News Today</title>
       </head>
       <body>
-      
-        
+
+
 
 
         <h1>Are we due for another COVID spike?</h1>
@@ -25,16 +25,16 @@ const News = () => {
         </p>
 
         <p class="news">
-        It seems that cases will start to rise again, but we should not panic, says Surgeon General Vivek Murthy. The emergence of 
-        this new subvariant in European countries has been cause for worry as coronavirus waves in Europe have long proven to predict a surge in the U.S.. 
-        For now, many health officials predict an increase in cases for the U.S., but say it will not be equivalent to the previous peaks we’ve seen before. 
-        “If we are going to see an uptick, we should start seeing it within the next week or so,” Fauci said Tuesday, March 22.
+          It seems that cases will start to rise again, but we should not panic, says Surgeon General Vivek Murthy. The emergence of
+          this new subvariant in European countries has been cause for worry as coronavirus waves in Europe have long proven to predict a surge in the U.S..
+          For now, many health officials predict an increase in cases for the U.S., but say it will not be equivalent to the previous peaks we’ve seen before.
+          “If we are going to see an uptick, we should start seeing it within the next week or so,” Fauci said Tuesday, March 22.
         </p>
 
         <p class="news">
-        Since then, we’ve seen new cases rise from a seven day average of 29,090 to 36,687. Although the weekly average for new cases in the U.S. 
-        has gone up, the trends are unalike those of the previous spikes. For the near future be sure to take the necessary precautions in keeping yourself 
-        safe as this could be the last rise in COVID-19 we see for a long time.
+          Since then, we’ve seen new cases rise from a seven day average of 29,090 to 36,687. Although the weekly average for new cases in the U.S.
+          has gone up, the trends are unalike those of the previous spikes. For the near future be sure to take the necessary precautions in keeping yourself
+          safe as this could be the last rise in COVID-19 we see for a long time.
         </p>
 
 

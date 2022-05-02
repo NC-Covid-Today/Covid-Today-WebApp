@@ -11,7 +11,6 @@ const World = () => {
 
   return (
     <div>
-
       <h1>
         World Covid-19
       </h1>
@@ -26,51 +25,43 @@ const World = () => {
       - McKinsey & Company, a healthcare consulting company.
       <br />
 
-
-
+      <br></br>
+      <br></br>
+      
       <center>
         <Tableau
-          url="https://public.tableau.com/views/WorldCovidMap_Upd4_16/Dash2?:language=en-US&:display_count=n&:origin=viz_share_link"
+          url="https://public.tableau.com/views/WorldCovidMap_Upd4_16/WorldCovid_db?:language=en-US&:display_count=n&:origin=viz_share_link"
           options={options}
         />
         <p class="world">The Tableau visualization above lets you compare different countries at this stage of the pandemic.
           Click and drag to select.
         </p>
         <p>
-          Dashboard Source{" "}
-          <a href="https://public.tableau.com/app/profile/sam.prewitt/viz/WorldCovidMap_Upd4_16/Dash2#2">
-            World Covid-19 visualization
+          Dashboard Source: {" "}
+          <a href="https://public.tableau.com/app/profile/sam.prewitt/viz/WorldCovidMap_Upd4_16/WorldCovid_db#1">
+            World Covid-19 visualization.
           </a>
           &nbsp;created with public CDC data.
         </p>
-        
-      
+
         <br>
         </br>
-        
+
         <Tableau
           url="https://public.tableau.com/views/CovidDeathsbyCountry/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"
           options={options}
         />
-      
-      <p>
-          Dashboard Source{" "}
+
+        <p>
+          Dashboard Source: {" "}
           <a href="https://public.tableau.com/app/profile/sam.prewitt/viz/CovidDeathsbyCountry/Dashboard1#3">
-            Death's per country to Covid-19 visualization
+            Death's per country to Covid-19 visualization.
           </a>
           &nbsp;created with public CDC data.
         </p>
-      
-      
-      
         ___________________________________________________________________________________
-      
-      
-      
+
       </center>
-
-
-
     </div>
   );
 };

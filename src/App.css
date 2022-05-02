@@ -38,6 +38,7 @@ put it back and it works again wtf
   font-size: calc(10px + 2vmin);
   color: #ffffff;
 }
+
 /*\
 above was originally
 background-color: #d4d4d4;
@@ -46,11 +47,12 @@ color: rgb(0, 0, 0);
 
 .Site-header {
   background-color: #ffffff;
-  min-height: 5vh; /* how far down our header goes*/
+  min-height: 5vh;
+  /* how far down our header goes*/
   /*display: flex;*/
   /*flex-direction: column;*/
   display: flex;
-  align-items: center; 
+  align-items: center;
   align-content: space-around;
   justify-content: center;
   font-size: calc(45px + 2vmin);
@@ -61,12 +63,13 @@ color: rgb(0, 0, 0);
   top: -5px;
   /*line-height:10px;*/
   color: rgb(0, 0, 0);
-  
+
 }
 
 .App-link {
   color: #bdbdbd;
 }
+
 /*
 un-commenting to change color from blue
 */
@@ -75,6 +78,7 @@ un-commenting to change color from blue
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
@@ -88,7 +92,7 @@ p {
   color: black;
   font-size: 18px;
   margin: 20px 400px 20px;
-  
+
 }
 
 /*
@@ -98,15 +102,15 @@ p.news {
   color: black;
   font-size: 20px;
   margin: 20px 400px 20px;
-  
+
 }
 
 h4.news {
-  text-align:right;
+  text-align: right;
 }
 
 ul.news {
-  text-align:justify;
+  text-align: justify;
   color: black;
   font-size: 20px;
   margin: 20px 500px 20px;
@@ -128,7 +132,7 @@ changed to
  margin: 20px 600px 20px;
 */
 ul.about {
-  text-align:justify;
+  text-align: justify;
   color: black;
   font-size: 20px;
   margin: 20px 600px 20px;
@@ -152,4 +156,3 @@ p.world {
   font-size: 20px;
   margin: 20px 400px 20px;
 }
-
